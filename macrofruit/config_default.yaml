@@ -1,0 +1,5 @@
+macropad_layout:
+  default: yes
+  rotation: 0
+  rows: 4
+  columns: 3
